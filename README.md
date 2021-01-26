@@ -1,5 +1,5 @@
 # hello-world
 my first repository on GitHub
 
-I love :coffee: :pizza:, and :dancer:.
+I love :beer: :wine:, and :pizza:.
 
